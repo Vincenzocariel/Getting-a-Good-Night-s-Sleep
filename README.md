@@ -101,4 +101,4 @@ The analysis follows these main steps:
 	4.	Results Interpretation
 	•	Compare occupational sleep patterns.
 	•	Explore relationships between BMI and insomnia.
-
+If you can't view the code click here: https://nbviewer.org/github/Vincenzocariel/Getting-a-Good-Night-s-Sleep/blob/main/notebook.ipynb
